@@ -3,4 +3,5 @@
 Olá! bem vindo ao livro de receitas :wave:
 
 - Strogonof de frango;
+- Pavê;
 
